@@ -47,3 +47,4 @@ if predictbutton:
     st.write(f"The predicted class is: {prediction}")
 else:
     st.write("Please enter the values and hit the predict button for getting a prediction.")
+    
